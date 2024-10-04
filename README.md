@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👨‍💻 I'm currently working at [Alliander](https://werkenbij.alliander.com)\
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/sversteeg/)
+
 <!--
 **se-bastiaan/se-bastiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=se-bastiaan&show_icons=true&theme=dracula&show=prs_merged&hide_title=true)
